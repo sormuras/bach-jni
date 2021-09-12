@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bach-jni.iml" filepath="$PROJECT_DIR$/.idea/bach-jni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.github.sormuras.bach.jni.api/com.github.sormuras.bach.jni.api.iml" filepath="$PROJECT_DIR$/com.github.sormuras.bach.jni.api/com.github.sormuras.bach.jni.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.github.sormuras.bach.jni.natives/com.github.sormuras.bach.jni.natives.iml" filepath="$PROJECT_DIR$/com.github.sormuras.bach.jni.natives/com.github.sormuras.bach.jni.natives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.app/test.app.iml" filepath="$PROJECT_DIR$/test.app/test.app.iml" />
+    </modules>
+  </component>
+</project>
